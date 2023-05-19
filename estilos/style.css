@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* *{
+    margin: 0px;
+    padding: 0px;
+}*/
+body, html{
+    font: normal 15pt arial;
+    background-image: linear-gradient(to right, rgb(49, 99, 236), rgb(77, 82, 90));
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.397);
+}
+footer{
+    color: white;
+    text-align: center;
+}
