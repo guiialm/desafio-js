@@ -9,6 +9,7 @@ body, html{
     background-image: linear-gradient(to right, rgb(49, 99, 236), rgb(77, 82, 90));
 }
 header{
+
     color: white;
     text-align: center;
 }
@@ -19,6 +20,10 @@ section{
     background-color: white;
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.397);
+}
+div img#imag{
+    width: 400px;
+    height: 200px;
 }
 footer{
     color: white;
