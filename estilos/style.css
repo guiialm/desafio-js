@@ -4,9 +4,9 @@
     margin: 0px;
     padding: 0px;
 }*/
-body, html{
+body{
     font: normal 15pt arial;
-    background-image: linear-gradient(to right, rgb(49, 99, 236), rgb(77, 82, 90));
+    background-color: rgb(49, 99, 236);
 }
 header{
 
@@ -21,7 +21,11 @@ section{
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.397);
 }
+div{
+    text-align: center;
+}
 div img#imag{
+
     width: 400px;
     height: 200px;
 }
